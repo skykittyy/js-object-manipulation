@@ -32,7 +32,8 @@ for (const sculpture of sculptureList) {
 console.log(sculptureListLengths);
 
 Output: sculptureListLengths
-When the script is run with the data above, the following output is generated and printed to the console:
+When the script is run with the data above, the following output is generated and printed
+to the console:
 
 [
   { name: 13, artist: 12, description: 123 },
